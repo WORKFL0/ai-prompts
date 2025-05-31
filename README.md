@@ -143,13 +143,17 @@ Download onze companion app voor offline toegang tot alle prompts:
 
 - **Issues**: [GitHub Issues](https://github.com/WORKFL0/ai-prompts/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/WORKFL0/ai-prompts/discussions)
-- **Workflo Email**: ai-prompts@workflo.it
-- **CEO**: Florian de Haan - [florian@workflo.it](mailto:florian@workflo.it)
+- **General Support**: [support@workflo.nl](mailto:support@workflo.nl)
+- **CEO**: Florian de Haan - [florian@workflo.nl](mailto:florian@workflo.nl)
 
 ### 🏢 Workflo MSP
 - **Opgericht**: 2014
 - **Team**: 4 FTE
 - **Klanten**: 100+ MSP klanten
+- **Adres**: Koivistokade 3, 1013 AM Amsterdam
+- **Telefoon**: [020-30 80 465](tel:+31203080465)
+- **KVK**: 87460807
+- **Website**: [workflo.it](https://workflo.it)
 - **Missie**: Snelle groei door innovatie en efficiëntie
 
 ## 📄 Licentie

@@ -25,9 +25,9 @@ Please report security vulnerabilities if you discover:
 
 **For security vulnerabilities:**
 1. **Do NOT** create a public GitHub issue
-2. Email us at: [your-email@domain.com] (replace with actual contact)
-3. Include "SECURITY" in the subject line
-4. Provide detailed information about the vulnerability
+2. Email us at: [support@workflo.nl](mailto:support@workflo.nl) with "SECURITY" in subject line
+3. For urgent security matters: [florian@workflo.nl](mailto:florian@workflo.nl)
+4. Include detailed information about the vulnerability
 
 **For prompt safety concerns:**
 1. Create a private issue using GitHub's security advisory feature
@@ -83,9 +83,10 @@ We cannot guarantee the safety or appropriateness of all possible outputs from t
 ## Contact
 
 For security-related questions or concerns:
-- Security issues: [security-email@domain.com]
-- General questions: Create a GitHub issue
-- Urgent matters: [urgent-contact@domain.com]
+- **Security issues**: [support@workflo.nl](mailto:support@workflo.nl) (Subject: SECURITY)
+- **General questions**: Create a GitHub issue
+- **Urgent matters**: [florian@workflo.nl](mailto:florian@workflo.nl)
+- **Phone**: [020-30 80 465](tel:+31203080465)
 
 ---
 
