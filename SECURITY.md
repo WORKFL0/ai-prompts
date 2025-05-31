@@ -1,33 +1,34 @@
-# Security Policy
+# Security Beleid - Veiligheid Voorop! 🛡️
 
-## Supported Versions
+## Ondersteunde Versies
 
-We actively maintain and provide security updates for the following versions:
+We houden deze versies actief bij en zorgen voor security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.x.x   | :white_check_mark: |
+| Versie | Ondersteuning      |
+| ------ | ------------------ |
+| 1.x.x  | ✅ Volledig        |
 
-## Reporting a Vulnerability
+## Security Issue? Laat het ons weten!
 
-We take the security of the AI Prompts repository seriously. While this repository primarily contains text-based prompts, we recognize that security considerations may arise.
+We nemen de veiligheid van onze AI Prompts collection serieus. Ook al zijn het "maar" tekst-based prompts, veiligheid staat altijd voorop bij Workflo.
 
-### What to Report
+### Wat moet je melden?
 
-Please report security vulnerabilities if you discover:
+Rapporteer security problemen als je ontdekt:
 
-- Prompts that could potentially be used to generate harmful, illegal, or unethical content
-- Prompts that could be exploited to bypass AI safety measures
-- Documentation or examples that inadvertently promote unsafe AI usage
-- Repository infrastructure vulnerabilities (GitHub Actions, templates, etc.)
+- **Prompts die misbruikt kunnen worden** voor schadelijke, illegale of onethische content
+- **Prompts die AI safety maatregelen omzeilen** 
+- **Documentatie of voorbeelden** die onveilig AI gebruik promoten
+- **Repository vulnerabilities** (GitHub Actions, templates, etc.)
+- **Privacy issues** in voorbeelden of templates
 
-### How to Report
+### Hoe meld je dit?
 
-**For security vulnerabilities:**
-1. **Do NOT** create a public GitHub issue
-2. Email us at: [support@workflo.nl](mailto:support@workflo.nl) with "SECURITY" in subject line
-3. For urgent security matters: [florian@workflo.nl](mailto:florian@workflo.nl)
-4. Include detailed information about the vulnerability
+**Voor security vulnerabilities:**
+1. **GEEN** publieke GitHub issue maken (logisch toch? 😉)
+2. **Email ons**: [support@workflo.nl](mailto:support@workflo.nl) met "SECURITY" in de subject
+3. **Urgent?** Direct naar CEO: [florian@workflo.nl](mailto:florian@workflo.nl)
+4. **Geef details**: Hoe meer info, hoe sneller we kunnen helpen
 
 **For prompt safety concerns:**
 1. Create a private issue using GitHub's security advisory feature

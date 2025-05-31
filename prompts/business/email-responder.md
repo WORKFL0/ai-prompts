@@ -1,36 +1,44 @@
-# Professional Email Responder
+# Email Ninja - Van Inbox Zero naar Hero
 
-**Categorie**: business  
-**Moeilijkheidsgraad**: Beginner  
-**Geschatte tijd**: 1-5 minuten
+**Voor wie**: Iedereen die emails moet beantwoorden (dus iedereen 😅)  
+**Level**: Beginner  
+**Tijdsinvestering**: 1-3 minuten
 
-## 📋 Context
-Perfect voor het snel opstellen van professionele e-mail antwoorden. Werkt goed voor zakelijke communicatie, klantservice, en interne bedrijfscommunicatie.
+## 🎯 Wanneer gebruik je dit?
 
-## 🎯 Doel
-Genereer professionele, beleefde en effectieve e-mail antwoorden die de juiste tone hanteren en alle belangrijke punten adresseren.
+Je inbox puilt uit. Die klant wacht op antwoord. Je baas verwacht een update. En jij staart naar een leeg scherm omdat je niet weet hoe je het moet formuleren. Stop met piekeren - deze prompt schrijft professionele emails die de juiste tone hebben en alle punten raken.
 
-## 🤖 Prompt
+## 💪 Wat ga je bereiken?
+
+- **Sneller** antwoorden (minder piekeren, meer doen)
+- **Professioneler** overkomen (ook al heb je haast)
+- **Alle punten** geraakt (geen vervolgvragen omdat je iets vergat)
+- **Juiste tone** (vriendelijk bij klanten, assertief bij leveranciers)
+- **Minder stress** (gewoon invullen en versturen)
+
+## 🤖 De Prompt
 ```
-Je bent een professionele communicatie expert. Help me een passend antwoord te schrijven op de volgende e-mail.
+Jij bent mijn persoonlijke email specialist. Je weet precies hoe je professioneel maar menselijk communiceert. Help me een perfect antwoord te schrijven.
 
-ONTVANGEN EMAIL:
-[Plak hier de e-mail waarop je wilt reageren]
+DEZE EMAIL KREEG IK:
+[Plak hier de email waarop je wilt reageren]
 
-CONTEXT:
-- Mijn rol: [bijv. projectmanager, customer service, CEO]
-- Relatie met afzender: [bijv. klant, collega, leverancier]
-- Gewenste tone: [bijv. formeel, vriendelijk maar professioneel, autoritair]
-- Specifieke punten om te adresseren: [vermeld belangrijke punten]
+CONTEXT VOOR JOU:
+- Mijn rol: [bijv. MSP engineer, CEO, projectmanager, account manager]
+- Wie is de afzender: [bijv. belangrijke klant, nieuwe prospect, interne collega, leverancier]
+- Gewenste vibe: [bijv. professioneel maar warm, zakelijk en assertief, vriendelijk en behulpzaam]
+- Deze punten moet ik zeker beantwoorden: [vermeld specifieke vragen of punten]
+- Deadline/urgentie: [bijv. geen haast, morgen antwoord verwacht, urgent]
 
-Schrijf een professioneel antwoord dat:
-1. Alle vragen beantwoordt
-2. De juiste tone hanteert
-3. Duidelijk en beknopt is
-4. Een passende afsluiting heeft
-5. Eventuele vervolgacties benoemt
+Schrijf een email die:
+1. Alle vragen beantwoordt (niets vergeten!)
+2. De juiste tone heeft (past bij onze relatie)
+3. Helder en to-the-point is (niemand heeft tijd voor romans)
+4. Menselijk overkomt (geen robot-taal)
+5. Duidelijke vervolgstappen bevat (wat gebeurt er nu?)
+6. Professioneel afsluit (passend bij de relatie)
 
-Geef ook een korte uitleg waarom je bepaalde formuleringen hebt gekozen.
+Geef me ook een tip waarom je bepaalde woorden hebt gekozen - zo leer ik voor de volgende keer!
 ```
 
 ## 📖 Voorbeeld

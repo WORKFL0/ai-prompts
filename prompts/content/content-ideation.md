@@ -1,14 +1,20 @@
-# Content Ideation Machine
+# Content Ideation Machine - Nooit meer een lege pagina
 
-**Categorie**: content  
-**Moeilijkheidsgraad**: Beginner  
-**Geschatte tijd**: 5-15 minuten
+**Voor wie**: Content creators, marketeers, ondernemers, social media managers  
+**Level**: Beginner  
+**Tijdsinvestering**: 5-15 minuten
 
-## 📋 Context
-Perfect voor content creators, marketeers en entrepreneurs die snel ideeën nodig hebben voor blogs, social media, video's of marketing campaigns. Helpt bij het overwinnen van writer's block en het genereren van verse, relevante content ideeën.
+## 🎯 Wanneer gebruik je dit?
 
-## 🎯 Doel
-Genereer een lijst met creatieve, actionable content ideeën die passen bij je doelgroep, platform en doelen.
+Die lege pagina staart je aan. Je deadline komt dichterbij. Je weet dat je content moet maken maar je hebt gewoon... niks. Writer's block? Creative crisis? Of gewoon te druk om na te denken? Deze prompt geeft je een waslijst aan ideeën die perfect passen bij jouw business, doelgroep en platform.
+
+## 💪 Wat ga je bereiken?
+
+- **Eindelijk content ideeën** die passen bij jouw business (geen random tips meer)
+- **Voor elke situatie** - van laatste-moment social posts tot uitgebreide blog series
+- **Platform-specifiek** - LinkedIn posts die werken, Instagram stories die boeiend zijn
+- **Actionable** - geen vage ideeën maar concrete content die je vandaag nog kunt maken
+- **Gevarieerd** - mix van educational, promotional en engaging content
 
 ## 🤖 Prompt
 ```

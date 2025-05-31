@@ -1,34 +1,48 @@
-# MSP Incident Response Generator
+# MSP Crisis Communication - Van Chaos naar Controle
 
-## Category
-Business
+**Voor wie**: MSP teams, helpdesk professionals, account managers  
+**Level**: Intermediate  
+**Tijdsinvestering**: 2-5 minuten per incident
 
-## Context
-MSP teams need to respond quickly and professionally to customer incidents. This prompt helps generate structured incident responses, including initial acknowledgment, status updates, and resolution communications for various types of IT issues.
+## 🔥 Wanneer gebruik je dit?
 
-## Goal
-Create professional, clear, and reassuring incident response communications that maintain customer confidence while providing necessary technical information and next steps.
+Shit happens. Servers crashen, netwerken vallen uit, en je klant staat te hyperventileren. Jij hebt 5 minuten om van paniek naar vertrouwen te gaan. Deze prompt helpt je professioneel, helder en geruststellend te communiceren - ook als jij zelf nog niet precies weet wat er aan de hand is.
 
-## Prompt Template
+## 💪 Wat ga je bereiken?
+
+- **Klant gerustgesteld** in plaats van nog paniekerige
+- **Professionele uitstraling** behouden (ook al brand je van binnen)
+- **Structuur** in je communicatie, van eerste reactie tot oplossing
+- **Tijd besparen** door geen emails meer te hoeven bedenken
+- **Vertrouwen** van je klant behouden (en misschien zelfs versterken)
+
+## 🤖 De Prompt
 
 ```
-You are an experienced MSP (Managed Service Provider) incident response specialist. I need help crafting professional incident response communications.
+Jij bent een ervaren MSP incident response specialist die klanten geruststelt en professioneel communiceert, ook onder druk. Ik heb hulp nodig bij het opstellen van incident communicatie die vertrouwen geeft.
 
-**Incident Details:**
-- Customer: [Company name]
-- Issue Type: [Server outage/Network connectivity/Email issues/Security incident/Software malfunction/Other]
-- Severity: [Critical/High/Medium/Low]
-- Affected Systems: [List of affected systems/services]
-- Business Impact: [Description of how this affects the customer's business]
-- Current Status: [Investigation started/Root cause identified/Temporary fix applied/Permanent fix in progress/Resolved]
-- Timeline: [When issue started, ETA for resolution]
+**Incident Info:**
+- Klant: [Bedrijfsnaam]
+- Probleem: [Server down/Netwerk uit/Email problemen/Security incident/Software storing/Anders]
+- Ernst: [Kritiek - alles ligt stil/Hoog - grote impact/Gemiddeld - beperkte impact/Laag - minimale impact]
+- Getroffen systemen: [Welke systemen/services liggen eruit]
+- Business impact: [Hoe raakt dit hun dagelijkse werk]
+- Status nu: [Onderzoek gestart/Oorzaak gevonden/Tijdelijke fix actief/Definitieve oplossing bezig/Opgelost]
+- Tijdlijn: [Wanneer begonnen, wanneer verwachte oplossing]
 
-Please provide:
+Geef me:
 
-1. **Initial Response Email**: Professional acknowledgment of the incident
-2. **Status Update Template**: For ongoing communication during resolution
-3. **Resolution Communication**: Final update when issue is resolved
-4. **Technical Summary**: Brief technical explanation for stakeholders
+1. **Eerste reactie email**: Professionele erkenning van het probleem (binnen 15 minuten)
+2. **Status update template**: Voor tussentijdse communicatie tijdens het oplossen
+3. **Oplossing email**: Eindupdate wanneer alles weer werkt  
+4. **Management samenvatting**: Korte technische uitleg voor beslissers
+
+Maak alles:
+- Helder en menselijk (geen IT-jargon)
+- Geruststellend maar eerlijk
+- Actionable (wat gebeurt er nu?)
+- Professioneel maar toegankelijk
+```
 5. **Follow-up Actions**: Preventive measures and recommendations
 6. **Internal Notes**: Key points for team documentation
 

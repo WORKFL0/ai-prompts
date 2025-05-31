@@ -1,54 +1,76 @@
-# Contributing to AI Prompts Collection
+# Meehelpen? Geweldig! 🚀
 
-Hartelijk dank voor je interesse in het bijdragen aan onze AI Prompts collectie! 🎉
+Tof dat je mee wilt bouwen aan onze AI Prompts collectie! We zijn altijd op zoek naar slimme mensen die onze community sterker maken. 
 
-## 🚀 Snelle Bijdrage
+*Bij Workflo geloven we dat de beste ideeën ontstaan wanneer mensen samenwerken - dus kom erbij!*
 
-### Nieuwe Prompt Toevoegen
-1. **Fork** deze repository
-2. **Clone** je fork lokaal
-3. **Navigeer** naar de juiste categorie in `/prompts/`
-4. **Maak** een nieuw `.md` bestand met de prompt
-5. **Volg** het [Prompt Template](#prompt-template)
-6. **Test** je prompt met minimaal 2 verschillende AI platforms
-7. **Commit** met duidelijke message
-8. **Open** een Pull Request
+## 🎯 Zo doe je dat
 
-### Bug Fix of Verbetering
-1. **Open** eerst een Issue om het probleem te bespreken
-2. **Volg** de stappen hierboven voor wijzigingen
-3. **Referentie** het Issue nummer in je Pull Request
+### Een nieuwe prompt delen
+1. **Fork** deze repository (gratis GitHub account? Check!)
+2. **Clone** je fork naar je computer  
+3. **Ga naar** de juiste categorie in `/prompts/`
+4. **Maak** een nieuw `.md` bestand voor je prompt
+5. **Gebruik** ons [Prompt Template](#prompt-template) (scheelt je tijd!)
+6. **Test** je prompt met minimaal 2 AI tools - anders weten we niet of het werkt
+7. **Commit** met een duidelijke message ("Added email automation prompt" ipv "updates")
+8. **Pull Request** aanmaken - we kijken er snel naar!
 
-## 📝 Prompt Template
+### Bug gevonden of verbetering?
+1. **Maak eerst** een Issue aan - dan kunnen we meekijken en helpen
+2. **Volg** de stappen hierboven voor je fix
+3. **Link** je Pull Request aan het Issue nummer
 
-Gebruik altijd deze template voor nieuwe prompts:
+*Geen zin in GitHub gedoe? Mail je prompt naar [support@workflo.nl](mailto:support@workflo.nl) - wij regelen de rest!*
+
+## 📝 Ons Prompt Template
+
+Zo houden we alles netjes en bruikbaar - volg dit template en je prompt wordt direct geaccepteerd:
 
 ```markdown
-# [Prompt Titel]
+# [Jouw Prompt Titel - Maak het aantrekkelijk!]
 
-**Categorie**: [business/technical/content/creative/education/personal]  
-**Moeilijkheidsgraad**: [Beginner/Intermediate/Advanced]  
-**Geschatte tijd**: [1-5 minuten/5-15 minuten/15+ minuten]
+**Voor wie**: [business/technical/content/creative/education/personal]  
+**Level**: [Beginner/Intermediate/Pro]  
+**Tijdsinvestering**: [1-5 min/5-15 min/15+ min]
 
-## 📋 Context
-[Beschrijf wanneer en waarom deze prompt te gebruiken]
+## 🎯 Wanneer gebruik je dit?
+[Leg uit in welke situatie deze prompt goud waard is]
 
-## 🎯 Doel
-[Wat wil je bereiken met deze prompt]
+## 💪 Wat ga je bereiken?
+[Helder doel - wat krijg je ervan terug?]
 
-## 🤖 Prompt
+## 🤖 De Prompt
 \```
-[De eigenlijke prompt tekst hier - gebruik triple backticks voor duidelijkheid]
-\```
-
-## 📖 Voorbeeld
-
-### Input
-\```
-[Voorbeeld van wat je invoert]
+[Hier staat je prompt - gebruik triple backticks zodat het er netjes uitziet]
 \```
 
-### Expected Output
+## 💡 Zo doe je het
+
+### Wat stop je erin
+\```
+[Concreet voorbeeld van input]
+\```
+
+### Wat krijg je eruit
+\```
+[Realistisch voorbeeld van output]
+\```
+
+## 🔥 Pro Tips
+- [Praktische tip 1 voor nog betere resultaten]
+- [Tip 2 die tijd bespaart]
+- [Geheime tip 3 die het verschil maakt]
+
+## ✅ Getest met
+- [ ] ChatGPT
+- [ ] Claude  
+- [ ] Gemini
+- [ ] [Andere AI tool]
+
+## 🏷️ Tags
+`tag1` `tag2` `tag3` `bruikbaar-voor-msp` `tijdbesparend`
+```
 \```
 [Voorbeeld van verwachte output]
 \```

@@ -1,52 +1,52 @@
-# 🏢 Workflo Company Information
+# 🏢 Wie is Workflo eigenlijk?
 
-## Bedrijfsgegevens
+## Onze Story
 
-- **Bedrijfsnaam**: Workflo
-- **Type**: Managed Service Provider (MSP)
-- **Opgericht**: 2014
-- **Oprichter/CEO**: Florian de Haan
-- **Team**: 4 FTE
-- **Klantenbasis**: 100+ MSP klanten
-- **KVK nummer**: 87460807
-- **Adres**: Koivistokade 3, 1013 AM Amsterdam
-- **Telefoon**: 020-30 80 465
-- **Website**: [workflo.it](https://workflo.it)
-- **Focus**: Snelle groei door innovatie en efficiëntie
+- **Bedrijfsnaam**: Workflo - simpel, krachtig, onthoudbaar
+- **Wat we doen**: Managed Service Provider (MSP) - jouw IT-partner in goede en slechte tijden
+- **Since**: 2014 - alweer 11 jaar ervaring en wijsheid!
+- **Oprichter/CEO**: Florian de Haan - de man met de visie
+- **Dream Team**: 4 FTE vol energie, expertise en passie
+- **Tevreden klanten**: 100+ ondernemers die ons vertrouwen
+- **KVK**: 87460807 - officieel en betrouwbaar
+- **Home Base**: Koivistokade 3, 1013 AM Amsterdam - midden in het hart van de stad
+- **Bereikbaar**: 020-30 80 465 - gewoon bellen, we nemen op!
+- **Online**: [workflo.it](https://workflo.it) - alles wat je wilt weten
+- **Onze Drive**: Snelle groei door slimme innovatie en echte efficiëntie
 
-## 🎯 Missie & Visie
+## 🎯 Waarom bestaan we?
 
-**Missie**: Het leveren van hoogwaardige IT-diensten aan onze klanten door middel van innovatieve oplossingen en persoonlijke service.
+**Onze Missie**: Jouw bedrijf laten groeien door IT die gewoon werkt. Geen gedoe, geen verrassingen, gewoon betrouwbare technologie die jou vooruit helpt.
 
-**Visie**: Uitgroeien tot een toonaangevende MSP in Nederland door continue groei, teamuitbreiding en technologische vooruitgang.
+**Onze Visie**: De MSP worden waar andere ondernemers over praten. Niet de grootste, maar wel de beste. Door echt te luisteren, slim te innoveren en altijd een stapje voor te blijven.
 
-## 👥 Team & Contact
+## 👥 Ons Team & Contact
 
-### CEO/Founder
-- **Naam**: Florian de Haan
-- **Functie**: CEO & Founder
+### De Baas 😎
+- **Florian de Haan** - CEO & Founder
 - **Email**: [florian@workflo.nl](mailto:florian@workflo.nl)
-- **Ervaring**: 11+ jaar in MSP sector (sinds 2014)
+- **Track Record**: 11+ jaar MSP ervaring (en we leren nog steeds elke dag bij!)
+- **Passie**: Technologie die écht werkt en bedrijven laat groeien
 
-### Contact Informatie
-- **General Support**: [support@workflo.nl](mailto:support@workflo.nl)
-- **Telefoon**: [020-30 80 465](tel:+31203080465)
-- **Adres**: Koivistokade 3, 1013 AM Amsterdam
-- **Website**: [workflo.it](https://workflo.it)
-- **LinkedIn**: [linkedin.com/company/workflo](https://www.linkedin.com/company/workflo)
+### Pak ons maar!
+- **Voor alles**: [support@workflo.nl](mailto:support@workflo.nl)
+- **Bellen**: [020-30 80 465](tel:+31203080465) (ma-vr 9-17u, en soms daarbuiten als het moet)
+- **Langskomen**: Koivistokade 3, 1013 AM Amsterdam (koffie staat klaar!)
+- **Surfen**: [workflo.it](https://workflo.it) - al onze info op één plek
+- **Netwerken**: [linkedin.com/company/workflo](https://www.linkedin.com/company/workflo)
 
-### Team Informatie
-- **Huidige teamgrootte**: 4 FTE
-- **Groeidoelstelling**: Snelle uitbreiding gepland
-- **Locatie**: Amsterdam (Koivistokade 3, 1013 AM)
-- **Specialisaties**: 
-  - Managed IT Services
-  - Cloud Services & Monitoring
-  - Cybersecurity (gecertificeerd)
-  - Connectivity & VoIP
-  - Mobile Device Management
-  - IT Consultancy & Project Management
-  - Helpdesk & Support
+### Team Power 💪
+- **Nu**: 4 FTE die elke dag het beste van zichzelf geven
+- **Straks**: Groei staat in de planning - we zoeken talenten!
+- **Waar**: Amsterdam centrum - perfect bereikbaar
+- **Wat we kunnen**:
+  - **Managed IT Services** - jouw IT, onze zorg
+  - **Cloud & Monitoring** - altijd in de gaten, nooit verrassingen
+  - **Cybersecurity** - gecertificeerd en paranoïde (op een goede manier)
+  - **Connectivity & VoIP** - verbonden blijven, overal
+  - **Mobile Device Management** - al je devices onder controle
+  - **IT Consultancy** - van strategie tot uitvoering
+  - **Helpdesk & Support** - hulp wanneer je het nodig hebt
 
 ### Service Portfolio
 - **Cloud Services**: Netwerkmonitoring en cloud-oplossingen
