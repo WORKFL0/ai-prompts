@@ -2,6 +2,12 @@
 
 Een uitgebreide verzameling van AI prompts voor dagelijks gebruik, georganiseerd per categorie en use case.
 
+## 🏢 Over Workflo
+
+**Workflo** is een Nederlandse MSP (Managed Service Provider) opgericht in 2014 door Florian de Haan (CEO/Founder). Met een team van 4 FTE bedienen we 100+ klanten en focussen op snelle groei en innovatie.
+
+Deze AI Prompts collectie is ontwikkeld om ons team en klanten te helpen met dagelijkse taken en processen, van technische ondersteuning tot business communicatie.
+
 ## 📚 Categorieën
 
 ### 🏢 [Zakelijk & Productiviteit](./prompts/business/)
@@ -90,7 +96,8 @@ We verwelkomen bijdragen! Zie [CONTRIBUTING.md](./CONTRIBUTING.md) voor richtlij
 
 ## 📊 Statistieken
 
-- **Totaal prompts**: 6
+- **Totaal prompts**: 8
+- **MSP-specifieke prompts**: 2
 - **Categorieën**: 6
 - **Contributors**: 1
 - **Laatste update**: Mei 2025
@@ -99,10 +106,16 @@ We verwelkomen bijdragen! Zie [CONTRIBUTING.md](./CONTRIBUTING.md) voor richtlij
 
 1. [Email Responder](./prompts/business/email-responder.md) - Professionele e-mail antwoorden
 2. [Code Reviewer](./prompts/technical/code-reviewer.md) - Gedetailleerde code reviews
-3. [Content Ideation](./prompts/content/content-ideation.md) - Content ideeën genereren
-4. [Decision Navigator](./prompts/personal/decision-navigator.md) - Persoonlijke beslissingen maken
-5. [Learning Path Creator](./prompts/education/learning-path-creator.md) - Leerplannen opstellen
-6. [Story Brainstormer](./prompts/creative/story-brainstormer.md) - Creatieve verhalen bedenken
+3. [MSP Incident Response](./prompts/business/msp-incident-response.md) - Incident communicatie voor MSP
+4. [MSP Client Onboarding](./prompts/business/msp-client-onboarding.md) - Klant onboarding proces
+5. [Content Ideation](./prompts/content/content-ideation.md) - Content ideeën genereren
+6. [Decision Navigator](./prompts/personal/decision-navigator.md) - Persoonlijke beslissingen maken
+7. [Learning Path Creator](./prompts/education/learning-path-creator.md) - Leerplannen opstellen
+8. [Story Brainstormer](./prompts/creative/story-brainstormer.md) - Creatieve verhalen bedenken
+
+### 📋 Workflo Quick Access
+- [**Bedrijfsinformatie**](./WORKFLO-INFO.md) - Complete company details en team info
+- [**MSP Prompts**](./prompts/business/) - Specifieke prompts voor MSP workflow
 
 ## 🛠️ Tools & Integraties
 
@@ -128,9 +141,16 @@ Download onze companion app voor offline toegang tot alle prompts:
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-prompts/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-prompts/discussions)
-- **Email**: ai-prompts@workflo.it
+- **Issues**: [GitHub Issues](https://github.com/WORKFL0/ai-prompts/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/WORKFL0/ai-prompts/discussions)
+- **Workflo Email**: ai-prompts@workflo.it
+- **CEO**: Florian de Haan - [florian@workflo.it](mailto:florian@workflo.it)
+
+### 🏢 Workflo MSP
+- **Opgericht**: 2014
+- **Team**: 4 FTE
+- **Klanten**: 100+ MSP klanten
+- **Missie**: Snelle groei door innovatie en efficiëntie
 
 ## 📄 Licentie
 
