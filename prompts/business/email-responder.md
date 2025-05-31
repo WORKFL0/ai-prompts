@@ -65,18 +65,17 @@ CONTEXT:
 ```
 Beste Sarah,
 
-Hartelijk dank voor uw e-mail en mijn excuses voor de vertraging in onze reactie.
+Hartelijk dank voor je e-mail en mijn excuses voor de vertraging in onze reactie.
 
-Ik begrijp dat u een urgente behoefte heeft aan IT-ondersteuning en waardeer uw geduld. Uw offerteaanvraag is in behandeling bij ons technisch team en u kunt de gedetailleerde offerte morgen (donderdag) voor 17:00 in uw inbox verwachten.
+Ik begrijp dat je een urgente behoefte heeft aan IT-ondersteuning en waardeer je geduld. Jullie offerteaanvraag is in behandeling bij ons technisch team en je kunt de gedetailleerde offerte morgen (donderdag) voor 17:00 in de inbox verwachten.
 
-Mocht u nog specifieke vragen hebben of aanvullende informatie nodig hebben voor de offerte, dan hoor ik dit graag van u. Ik sta ook open voor een telefonisch gesprek om uw wensen door te nemen.
+Mocht je nog specifieke vragen hebben of aanvullende informatie nodig hebben voor de offerte, dan hoor ik dit graag van je. Ik sta ook open voor een telefonisch gesprek om jullie wensen door te nemen.
 
 Met vriendelijke groet,
 
 Florian de Haan
-Customer Service Manager
-WorkFlo IT Solutions
-Tel: 020-30 80 465
+Workflo B.V. 
+T: 020-30 80 465
 
 ---
 
