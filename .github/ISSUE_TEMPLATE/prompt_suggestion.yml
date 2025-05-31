@@ -1,0 +1,87 @@
+name: Prompt Suggestion
+description: Suggest a new prompt for the collection
+title: "[SUGGESTION] "
+labels: ["enhancement", "new-prompt"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for a new prompt? We'd love to hear it! Please provide as much detail as possible.
+
+  - type: input
+    id: prompt_name
+    attributes:
+      label: Proposed Prompt Name
+      description: What would you call this prompt?
+      placeholder: e.g., "Social Media Content Scheduler"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category would this prompt fit into?
+      options:
+        - Business
+        - Technical
+        - Content
+        - Creative
+        - Education
+        - Personal
+        - New Category (specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use Case & Context
+      description: What problem would this prompt solve? Who would use it?
+      placeholder: Describe the scenario where this prompt would be helpful...
+    validations:
+      required: true
+
+  - type: textarea
+    id: desired_output
+    attributes:
+      label: Desired Output
+      description: What kind of response should this prompt generate?
+      placeholder: Describe what the AI should produce when using this prompt...
+    validations:
+      required: true
+
+  - type: textarea
+    id: example_scenario
+    attributes:
+      label: Example Scenario
+      description: Provide a specific example of how this prompt would be used
+      placeholder: |
+        Input: [Example input]
+        Expected Output: [What the AI should generate]
+
+  - type: textarea
+    id: existing_alternatives
+    attributes:
+      label: Existing Alternatives
+      description: Are there similar prompts already? How would this be different/better?
+      placeholder: Explain how this would improve upon existing solutions...
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Are you willing to help create this prompt?
+      options:
+        - label: I'm willing to help draft this prompt
+        - label: I can provide testing and feedback
+        - label: I have domain expertise in this area
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Any other relevant information
+      placeholder: Links, references, special considerations...
