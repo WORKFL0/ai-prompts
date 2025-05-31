@@ -1,0 +1,79 @@
+name: Bug Report
+description: Report a problem with an existing prompt
+title: "[BUG] "
+labels: ["bug", "needs-review"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out this form to help us understand and fix the issue.
+
+  - type: input
+    id: prompt_name
+    attributes:
+      label: Prompt Name
+      description: Which prompt is experiencing the issue?
+      placeholder: e.g., "Professional Email Responder"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this prompt belong to?
+      options:
+        - Business
+        - Technical
+        - Content
+        - Creative
+        - Education
+        - Personal
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem_description
+    attributes:
+      label: Problem Description
+      description: Describe what's wrong with the prompt
+      placeholder: Explain the issue you encountered...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: What should happen instead?
+      placeholder: Describe what you expected to happen...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction_steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Use the prompt with...
+        2. Input the following...
+        3. See error/unexpected result...
+    validations:
+      required: true
+
+  - type: textarea
+    id: ai_model
+    attributes:
+      label: AI Model Used
+      description: Which AI model/platform did you test with?
+      placeholder: e.g., GPT-4, Claude 3, Gemini, etc.
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any other information that might help
+      placeholder: Screenshots, examples, related issues...
